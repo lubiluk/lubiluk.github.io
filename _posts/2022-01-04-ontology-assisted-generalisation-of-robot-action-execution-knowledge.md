@@ -2,7 +2,7 @@
 layout: post
 title:  "Ontology-Assisted Generalisation of Robot Action Execution Knowledge"
 date:   2022-01-04 23:30:00 +0200
-categories: inner-circle
+categories: middle-circle
 ---
 
 A. Mitrevski, P. G. Plöger, and G. Lakemeyer, “Ontology-Assisted Generalisation of Robot Action Execution Knowledge,” *IROS*, 2021. [online](http://arxiv.org/abs/2107.09353)

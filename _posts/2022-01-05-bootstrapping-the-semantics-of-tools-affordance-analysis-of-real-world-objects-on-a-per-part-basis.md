@@ -2,7 +2,7 @@
 layout: post
 title:  "Bootstrapping the Semantics of Tools: Affordance Analysis of Real World Objects on a Per-part Basis"
 date:   2022-01-05 17:00:00 +0200
-categories: inner-circle
+categories: middle-circle
 ---
  
 M. Schoeler and F. Worgotter, “Bootstrapping the Semantics of Tools: Affordance Analysis of Real World Objects on a Per-part Basis,” IEEE Trans. Cogn. Dev. Syst., vol. 8, no. 2, pp. 84–98, Jun. 2016, doi: 10.1109/TAMD.2015.2488284.

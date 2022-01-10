@@ -2,7 +2,7 @@
 layout: post
 title:  "How robots are grasping the art of gripping"
 date:   2021-09-08 21:29:15 +0200
-categories: middle-circle
+categories: outer-circle
 ---
 
 R. Hodson, “How robots are grasping the art of gripping,” *Nature*, vol. 557, no. 7704, pp. S23–S25, May 2018, doi: 10.1038/d41586-018-05093-1. [online](https://www.nature.com/articles/d41586-018-05093-1)

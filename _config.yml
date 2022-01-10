@@ -31,7 +31,8 @@ url: "https://lubiluk.github.io" # the base hostname & protocol for your site, e
 github_username:  lubiluk
 
 # Build settings
-theme: minima
+# theme: minima
+theme: jekyll-athena
 plugins:
   - jekyll-feed
 
